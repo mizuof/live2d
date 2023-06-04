@@ -18,9 +18,7 @@ Add Live2D widget to web page. Compatible with PJAX.
 
 你也可以查看示例网页：
 
-- 在 [米米的博客](https://zhangshuqiao.org) 的左下角可查看效果
-- [demo.html](https://mi.js.org/live2d-widget/demo/demo.html)，展现基础功能
-- [login.html](https://mi.js.org/live2d-widget/demo/login.html)，仿 NPM 的登陆界面
+- 在 [Nancy的博客](https://www.ash-pro.top) 的左下角可查看效果
 
 ## 使用 Usage
 
