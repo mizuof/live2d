@@ -34,7 +34,7 @@ const tools = {
                 window.ASTEROIDSPLAYERS.push(new Asteroids());
             } else {
                 const script = document.createElement("script");
-                script.src = "https://fastly.jsdelivr.net/gh/Nancy-Blog/live2d@new/asteroids.js";
+                script.src = "https://fastly.jsdelivr.net/gh/Nancy-Blog/live2d/asteroids.js";
                 document.head.appendChild(script);
             }
         }
