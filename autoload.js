@@ -41,7 +41,7 @@ if (screen.width >= 768) {
 	});
 }
 
-console.log(`
+console.log(`＿＿
           ／＞　　フ
          | 　_　 _ l
 　 　　　／` ミ＿xノ
