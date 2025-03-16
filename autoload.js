@@ -42,7 +42,6 @@ if (screen.width >= 768) {
 }
 
 console.log(`
-  　         ＿＿
           ／＞　　フ
          | 　_　 _ l
 　 　　　／` ミ＿xノ
